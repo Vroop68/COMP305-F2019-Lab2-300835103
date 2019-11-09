@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿// John Knoop - 300835103
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
