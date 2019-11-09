@@ -11,6 +11,7 @@ public class SceneSettings : ScriptableObject
 
 {
     [Header("Scene Config")]
+    public Scene scene;
     public SoundClip activeSoundClip;
     [Header("Scoreboard")]
     public bool scoreLabel;
@@ -20,7 +21,6 @@ public class SceneSettings : ScriptableObject
     public bool startLabel;
     public bool endLabel;
     [Header("Scene Buttons")]
-
     public bool startButton;
     public bool restartButton;
 
